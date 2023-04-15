@@ -46,7 +46,7 @@ graph3 <- gr3 %>% ggplot(aes(x=reorder(code, -max_insured), max_insured,group=co
            scale_y_continuous(labels = scales::number_format())+theme_light()+ 
            labs(fill= "COMPANY", y="Maximum amount of insured people", x="Comapny Code")
 
-ggsave(graph3,file="C:/Users/Aiste/OneDrive/Desktop/vizualizacija_LD2/KTU-duomenu-vizualizacija/laboratorinis/img/Rplot_3.png")
+ggsave(graph3,file="C:/Users/Aiste/OneDrive/Desktop/vizualizacija_LD2/KTU-duomenu-vizualizacija/laboratorinis/img/Rplot_3.JPG")
 
 
 
