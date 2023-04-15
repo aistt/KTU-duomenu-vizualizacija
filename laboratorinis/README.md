@@ -34,4 +34,4 @@ Išvados: Daugiausiai apdraustų darbuotojų randama šmonėje UAB "Ledai", maž
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny_app.jpg)
+![shiny app](img/shiny_app.JPG)
